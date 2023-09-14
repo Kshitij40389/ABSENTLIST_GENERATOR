@@ -12,6 +12,6 @@ Usage:
 Run the script and input the number of absent students.
 Enter the roll numbers of the absent students when prompted.
 The script will generate an organized absent list with the date and relevant information.
-Contributing:
 
+Contributing:
 Contributions are welcome! If you have ideas for improvements or spot any issues, please feel free to open an issue or create a pull request.
